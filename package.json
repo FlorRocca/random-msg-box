@@ -23,9 +23,11 @@
     "url": "https://github.com/FlorRocca/random-msg-box/issues"
   },
   "homepage": "https://github.com/FlorRocca/random-msg-box#readme",
-  "bin":{
-    "random-msg-box": "./bin/global.js"
+  "dependencies": {
+    "g": "^2.0.1"
   },
-  "preferGlobal": true
+  "bin": {
+    "random-msg-box": "bin/global.js"
+},
+"preferGlobal": true  
 }
-
