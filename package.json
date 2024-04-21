@@ -17,10 +17,15 @@
     "html",
     "css"
   ],
-  "author": "Florencia Rocca",
+  "author": "Florencia Rocca <florenciaprocca@outlook.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FlorRocca/random-msg-box/issues"
   },
-  "homepage": "https://github.com/FlorRocca/random-msg-box#readme"
+  "homepage": "https://github.com/FlorRocca/random-msg-box#readme",
+  "bin":{
+    "random-msg-box": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
+
