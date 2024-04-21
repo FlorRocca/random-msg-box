@@ -1,0 +1,26 @@
+{
+  "name": "random-msg-box",
+  "version": "1.0.0",
+  "description": "creacion paquete NPM -cursoNPM- mensajes random ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/FlorRocca/random-msg-box.git"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "react",
+    "html",
+    "css"
+  ],
+  "author": "Florencia Rocca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlorRocca/random-msg-box/issues"
+  },
+  "homepage": "https://github.com/FlorRocca/random-msg-box#readme"
+}
